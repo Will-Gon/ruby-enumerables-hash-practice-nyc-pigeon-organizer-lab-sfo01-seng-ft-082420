@@ -8,8 +8,8 @@ def nyc_pigeon_organizer(data)
        #binding.pry
        if !new_array[name]
           new_array[name] = {}
-          binding.pry
         end
+        
       end
      new_array
     end
